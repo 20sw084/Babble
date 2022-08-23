@@ -1,0 +1,11 @@
+edu/westga/cs/babble/model/TestTileConstructor.class
+edu/westga/cs/babble/model/TestTileGroupAppend.class
+edu/westga/cs/babble/model/TestTileGroupAppend$DummyTileGroup.class
+edu/westga/cs/babble/model/TestTileGroupRemove.class
+edu/westga/cs/babble/model/TestPlayedWordMatches.class
+edu/westga/cs/babble/model/TestPlayedWordGetScore.class
+edu/westga/cs/babble/model/TestTileBagDrawTile.class
+edu/westga/cs/babble/controllers/TestWordDictionary.class
+edu/westga/cs/babble/model/TestTileGroupRemove$DummyTileGroup.class
+edu/westga/cs/babble/model/TestTileRackAppend.class
+edu/westga/cs/babble/model/TestTileRackGetNumberOfTilesNeeded.class
